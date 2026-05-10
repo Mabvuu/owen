@@ -7,7 +7,7 @@ const navLinks = [
   { href: "/projects", label: "Projects" },
   { href: "/about", label: "About" },
   { href: "/services", label: "Services" },
-  { href: "/architect-website-1/app/index", label: "Index" },
+  { href: "/index", label: "Index" },
   { href: "/themes", label: "Themes" },
   { href: "/contact", label: "Contact us" },
 ];
