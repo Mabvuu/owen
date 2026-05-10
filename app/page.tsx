@@ -7,16 +7,16 @@ const projects = [
     title: "EDGE HOUSE",
     line: "cut by light and shadow.",
     type: "Residential",
-    location: "Harare",
+    location: "Cape Town",
     image:
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2402",
     title: "STONE YARD",
     line: "heavy walls, quiet rooms.",
     type: "Commercial",
-    location: "Bulawayo",
+    location: "Claremont",
     image:
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
   },
@@ -25,16 +25,16 @@ const projects = [
     title: "WHITE FRAME",
     line: "a soft interior study.",
     type: "Interior",
-    location: "Mutare",
+    location: "Sea Point",
     image:
-      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2404",
     title: "BLACK COURT",
     line: "to gather and retreat.",
     type: "Cultural",
-    location: "Victoria Falls",
+    location: "Cape Town CBD",
     image:
       "https://images.unsplash.com/photo-1600607687644-c7171b42498f?q=80&w=1200&auto=format&fit=crop",
   },
@@ -43,7 +43,7 @@ const projects = [
     title: "LONG ROOM",
     line: "a narrow urban gesture.",
     type: "Urban",
-    location: "Harare",
+    location: "Stellenbosch",
     image:
       "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1200&auto=format&fit=crop",
   },
@@ -52,34 +52,34 @@ const projects = [
     title: "PLAIN VILLA",
     line: "low in the landscape.",
     type: "Residential",
-    location: "Nyanga",
+    location: "Constantia",
     image:
-      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2407",
     title: "LINE STUDIO",
     line: "work shaped by silence.",
     type: "Workspace",
-    location: "Harare",
+    location: "Woodstock",
     image:
-      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2408",
     title: "NARROW HALL",
     line: "compressed, then open.",
     type: "Cultural",
-    location: "Gweru",
+    location: "Newlands",
     image:
-      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2409",
     title: "RIDGE HOUSE",
     line: "a house facing distance.",
     type: "Residential",
-    location: "Nyanga",
+    location: "Somerset West",
     image:
       "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1200&auto=format&fit=crop",
   },
@@ -88,54 +88,54 @@ const projects = [
     title: "GARDEN ROOM",
     line: "between inside and green.",
     type: "Interior",
-    location: "Harare",
+    location: "Durbanville",
     image:
-      "https://images.unsplash.com/photo-1600607688066-890987f18a86?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2411",
     title: "QUIET BLOCK",
     line: "mass, pause, shade.",
     type: "Commercial",
-    location: "Kadoma",
+    location: "Bellville",
     image:
-      "https://images.unsplash.com/photo-1600607688960-e095ff83135c?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1200&auto=format&fit=crop",
   },
- {
-  code: "2412",
-  title: "OPEN WALL",
-  line: "privacy without weight.",
-  type: "Residential",
-  location: "Masvingo",
-  image:
-    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
-},
+  {
+    code: "2412",
+    title: "OPEN WALL",
+    line: "privacy without weight.",
+    type: "Residential",
+    location: "Observatory",
+    image:
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1200&auto=format&fit=crop",
+  },
   {
     code: "2413",
     title: "CIVIC EDGE",
     line: "public space, clear form.",
     type: "Urban",
-    location: "Harare",
+    location: "Century City",
     image:
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2414",
     title: "SHADE HOUSE",
     line: "sun held at the edge.",
     type: "Residential",
-    location: "Chinhoyi",
+    location: "Camps Bay",
     image:
-      "https://images.unsplash.com/photo-1600566753151-384129cf4e3e?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1200&auto=format&fit=crop",
   },
   {
     code: "2415",
     title: "COURTYARD OFFICE",
     line: "work around stillness.",
     type: "Commercial",
-    location: "Bulawayo",
+    location: "Cape Town",
     image:
-      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?q=80&w=1200&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=1200&auto=format&fit=crop",
   },
 ];
 
@@ -157,6 +157,7 @@ export default function HomePage() {
                   src={project.image}
                   alt={project.title}
                   fill
+                  unoptimized
                   sizes="(max-width: 768px) 100vw, 33vw"
                   className="object-cover transition duration-500 group-hover:scale-105"
                 />

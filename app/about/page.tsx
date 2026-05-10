@@ -70,7 +70,7 @@ export default function AboutPage() {
           <article className="grid gap-8 lg:grid-cols-[420px_1fr] lg:items-end">
             <div className="relative h-[420px] overflow-hidden bg-neutral-100 sm:h-[520px] lg:h-[560px]">
               <Image
-                src="/about/1.JPEG"
+                src="/about/1.jpeg"
                 alt="Owen Mabvuu"
                 fill
                 priority
