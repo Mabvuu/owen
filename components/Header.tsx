@@ -83,9 +83,7 @@ export default function Header() {
                   onClick={() => setMenuOpen(false)}
                   className="group flex items-end justify-between border-b border-white/40 pb-4"
                 >
-                  <span className="text-5xl leading-none">
-                    {link.label}
-                  </span>
+                  <span className="text-5xl leading-none">{link.label}</span>
 
                   <span className="text-sm tracking-[0.3em]">
                     0{index + 1}
